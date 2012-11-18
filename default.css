@@ -17,6 +17,11 @@ body
   cursor: pointer;
 }
 
+#footer {
+  
+  margin: 50px 0px 0px 0px;
+}
+
 #footer h4 {
   
     margin-left: 20px;
