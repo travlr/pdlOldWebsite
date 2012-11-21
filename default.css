@@ -1,5 +1,4 @@
-body
-{
+body {
   background-image: url(page-bg.png);
   background-repeat: repeat;
   background-color: #003366;
@@ -8,6 +7,10 @@ body
    *   padding: 0;*/
   font-family: sans-serif;
   /*     margin-right: 10px; */
+}
+
+a {
+  color: #5FC2FF;
 }
 
 #header {
@@ -111,11 +114,6 @@ body
   text-decoration: none;
 }
 
-.links
-{
-  color: #5FC2FF;
-}
-
 
 .clear {
   height: 0;
@@ -157,10 +155,7 @@ body
 }
 
 
-a {
-  
-  color: #F3F1E9;
-}
+
 
 
 
