@@ -173,3 +173,26 @@ a {
   padding-top: 150px;
 }
 
+#about-content {
+
+  margin: auto;
+}
+
+#about-image {
+
+
+  float: left;
+  margin: 15px 0px 0px 50px;
+}
+
+#about-info {
+
+  float: right;
+  margin: 50px 0px 0px 0px;
+}
+
+
+
+
+
+
