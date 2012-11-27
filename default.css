@@ -163,12 +163,13 @@ a {
 #contact-image {
 
   float: left;
-  margin-left: 25px;
+  margin: 0px 50px 0px 50px;
 }
 
 #contact-info {
 
   float: right;
-  margin: 50px 0px 50px 0px;
+  margin-top: 150px;
+  padding-top: 150px;
 }
 
